@@ -1,6 +1,6 @@
 <div align="center">
 
-# SIROMA
+# PLANA.RED
 
 **INDEPENDENT CREATOR · EXPERIMENTAL DEVELOPER**
 
